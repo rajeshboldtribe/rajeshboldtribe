@@ -1,6 +1,8 @@
 # Hey 👋, I’m Rajesh
 
-**React Native • MERN Stack • Web Developer**  
+<marquee behavior="alternate" direction="left" scrollamount="4">
+  <h2>✨ React Native • MERN Stack • Web Developer ✨</h2>
+</marquee>
 Building mobile apps (Android/iOS) and web platforms that solve real problems.  
 Always learning, always building.
 
