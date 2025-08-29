@@ -1,6 +1,6 @@
 # Hey 👋, I’m Rajesh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F39C12&width=800&lines=React+Native+Developer;MERN+Stack+Developer;Web+Developer)](https://git.io/typing-svg)
+![Animated Title](https://your-uploaded-gif-link.com/animated.gif)
 Building mobile apps (Android/iOS) and web platforms that solve real problems.  
 Always learning, always building.
 
